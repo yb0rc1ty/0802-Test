@@ -1,0 +1,14 @@
+{
+  "appname": "0802 Test",
+  "scope": "FullAccess",
+  "clientid": "A880E8C9-1246-40EB-BDA4-2008DC2FD5F3",
+  "buyerid": "Buyer01",
+  "environment": "test",
+  "anonymous": true,
+  "base": {
+    "left":true,
+    "right":false,
+    "top":true,
+    "bottom":false
+  }
+}
